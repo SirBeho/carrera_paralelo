@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Algoritmos paralelos\\Tarea semana 2\\Carrera_Algoritmos\\Carrera_Algoritmos\\Carrera_Algoritmos.csproj": {}
+    "E:\\Algoritmos paralelos\\Tarea semana 2\\carrera_paralelo\\Carrera_Algoritmos\\Carrera_Algoritmos.csproj": {}
   },
   "projects": {
-    "E:\\Algoritmos paralelos\\Tarea semana 2\\Carrera_Algoritmos\\Carrera_Algoritmos\\Carrera_Algoritmos.csproj": {
+    "E:\\Algoritmos paralelos\\Tarea semana 2\\carrera_paralelo\\Carrera_Algoritmos\\Carrera_Algoritmos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Algoritmos paralelos\\Tarea semana 2\\Carrera_Algoritmos\\Carrera_Algoritmos\\Carrera_Algoritmos.csproj",
+        "projectUniqueName": "E:\\Algoritmos paralelos\\Tarea semana 2\\carrera_paralelo\\Carrera_Algoritmos\\Carrera_Algoritmos.csproj",
         "projectName": "Carrera_Algoritmos",
-        "projectPath": "E:\\Algoritmos paralelos\\Tarea semana 2\\Carrera_Algoritmos\\Carrera_Algoritmos\\Carrera_Algoritmos.csproj",
+        "projectPath": "E:\\Algoritmos paralelos\\Tarea semana 2\\carrera_paralelo\\Carrera_Algoritmos\\Carrera_Algoritmos.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\Algoritmos paralelos\\Tarea semana 2\\Carrera_Algoritmos\\Carrera_Algoritmos\\obj\\",
+        "outputPath": "E:\\Algoritmos paralelos\\Tarea semana 2\\carrera_paralelo\\Carrera_Algoritmos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net5.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
